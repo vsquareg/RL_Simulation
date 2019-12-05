@@ -70,4 +70,4 @@ Model name can be changes from the file itself.
 
 `python3 plotting.py`
 
-**Entire project extended and modified from https://github.com/harvitronix/reinforcement-learning-car/**
+**Project extended and modified from https://github.com/harvitronix/reinforcement-learning-car/**
